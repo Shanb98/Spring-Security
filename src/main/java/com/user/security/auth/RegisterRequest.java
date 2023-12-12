@@ -1,7 +1,6 @@
 package com.user.security.auth;
 
-
-import com.user.security.user.Role;
+import com.alibou.security.user.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -13,9 +12,9 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class RegisterRequest {
 
-    private String firstname;
-    private String lastname;
-    private String email;
-    private String password;
-    private Role role;
+  private String firstname;
+  private String lastname;
+  private String email;
+  private String password;
+  private Role role;
 }
