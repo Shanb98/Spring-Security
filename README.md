@@ -31,8 +31,3 @@ To get started with this project, you will need to have the following installed 
 - JDK 17+
 - Maven 3+
 
-Follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Shanb98/Spring-Security.git)https://github.com/Shanb98/Spring-Security.git
