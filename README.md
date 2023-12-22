@@ -1,4 +1,4 @@
-# Spring Boot 3.0 Security with JWT Implementation
+8# Spring Boot 3.0 Security with JWT Implementation
 
 This project demonstrates the implementation of security using Spring Boot 3.0 and JSON Web Tokens (JWT). It includes the following features:
 
@@ -30,4 +30,5 @@ To get started with this project, you will need to have the following installed 
 
 - JDK 17+
 - Maven 3+
-
+- Springboot 3+
+- Spring Security 6+
